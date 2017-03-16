@@ -1,0 +1,54 @@
+{
+  "cities": [
+    {
+      "name": "Minsk",
+      "countrycode": "BY",
+      "description" : "Minsk is the capital and largest city of the Republic of Belarus, situated on the Svislach and Nyamiha rivers."
+    },
+    {
+      "name": "Kiev",
+      "countrycode": "UA",
+      "description" : "Kiev is the capital and largest city of Ukraine, located in the north central part of the country on the Dnieper River."
+    },
+    {
+      "name": "Warsaw",
+      "countrycode": "PL",
+      "description" : "Warsaw is the capital and largest city of Poland. It stands on the Vistula River in east-central Poland, roughly 260 kilometres from the Baltic Sea and 300 kilometres from the Carpathian Mountains."
+    },
+    {
+      "name": "Vilnius",
+      "countrycode": "LT",
+      "description" : "Vilnius is the capital of Lithuania and its largest city, with a population of 542,664 as of 2015. Vilnius is located in the southeast part of Lithuania and is the second largest city in the Baltic states."
+    },
+    {
+      "name": "Tallinn",
+      "countrycode": "EE",
+      "description" : "Tallinn is the capital and largest city of Estonia. It is situated on the northern coast of the country, on the shore of the Gulf of Finland, 80 km south of Helsinki, east of Stockholm and west of Saint Petersburg."
+    },
+    {
+      "name": "Prague",
+      "countrycode": "CZ",
+      "description" : "Prague is the capital and largest city of the Czech Republic. It is the 14th largest city in the European Union. It is also the historical capital of Bohemia. "
+    },
+    {
+      "name": "Riga",
+      "countrycode": "LV",
+      "description" : "Riga is the capital and the largest city of Latvia. With 696,593 inhabitants (2015), Riga is the largest city of the Baltic states and home to one third of Latvia's population."
+    },
+    {
+      "name": "Rome",
+      "countrycode": "IT",
+      "description" : "Rome is a special comune and the capital of Italy. Rome also serves as the capital of the Lazio region."
+    },
+    {
+      "name": "Paris",
+      "countrycode": "FR",
+      "description" : "Paris is the capital and most populous city of France. It has an area of 105 square kilometres and a population in 2013 of 2,229,621 within its administrative limits."
+    },
+    {
+      "name": "London",
+      "countrycode": "GB",
+      "description" : "London is the capital and most populous city of England and the United Kingdom, as well as the most populous municipality in the European Union."
+    }
+  ]
+}
